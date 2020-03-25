@@ -1,5 +1,7 @@
 {
-  "errors": {},
+  "errors": {
+    "invalid": "Please enter valid data"
+  },
   "helpTexts": {},
   "options": {}
 }
